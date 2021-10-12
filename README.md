@@ -1,5 +1,5 @@
 # Mathematics-for-Machine-Learning-Coursera
-Solutions for Mathematics for Machine Learning Specialization course on Coursera, offered by Imperial College London
+Programming Assignments submitted during Mathematics for Machine Learning Specialization course on Coursera, offered by Imperial College London
 
 ## 1. [Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning?)
 In this course on Linear Algebra we look at what linear algebra is and how it relates to vectors and matrices. Then we look through what vectors and matrices are and how to work with them, including the knotty problem of eigenvalues and eigenvectors, and how to use these to solve problems. Finally  we look at how to use these to do fun things with datasets - like how to rotate images of faces and how to extract eigenvectors to look at how the Pagerank algorithm works.
