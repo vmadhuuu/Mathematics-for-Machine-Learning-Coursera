@@ -14,4 +14,3 @@ This course offers a brief introduction to the multivariate calculus required to
 ## 3. [PCA](https://www.coursera.org/learn/pca-machine-learning?specialization=mathematics-machine-learning)
 This intermediate-level course introduces the mathematical foundations to derive Principal Component Analysis (PCA), a fundamental dimensionality reduction technique. We'll cover some basic statistics of data sets, such as mean values and variances, we'll compute distances and angles between vectors using inner products and derive orthogonal projections of data onto lower-dimensional subspaces. Using all these tools, we'll then derive PCA as a method that minimizes the average squared reconstruction error between data points and their reconstruction.
 
-
